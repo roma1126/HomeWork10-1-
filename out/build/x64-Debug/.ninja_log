@@ -1,0 +1,14 @@
+# ninja log v5
+5	156	7059439808436507	build.ninja	c8f20fd1353ab341
+5	664	7059439813862763	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	945d0cc7713703a4
+664	1022	7059439817291994	my_first_cmake_program.exe	5fad12fe45c6bbb7
+3	603	7059440183532895	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	945d0cc7713703a4
+604	816	7059440185258321	my_first_cmake_program.exe	5fad12fe45c6bbb7
+2	499	7059440572596826	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	945d0cc7713703a4
+499	774	7059440574870759	my_first_cmake_program.exe	5fad12fe45c6bbb7
+2	592	7059440787725872	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	945d0cc7713703a4
+594	801	7059440789411342	my_first_cmake_program.exe	5fad12fe45c6bbb7
+2	637	7059441102833928	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	945d0cc7713703a4
+638	893	7059441104948278	my_first_cmake_program.exe	5fad12fe45c6bbb7
+2	410	7059441184689394	CMakeFiles/my_first_cmake_program.dir/Source.cpp.obj	945d0cc7713703a4
+410	602	7059441186215355	my_first_cmake_program.exe	5fad12fe45c6bbb7
